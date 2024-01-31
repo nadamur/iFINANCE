@@ -7,6 +7,7 @@
 
 1. **Authentication:**
    - Secure login with a username and encrypted password.
+   - Change password at any time if desired.
    - Admin manages user accounts.
 ![image](https://github.com/nadamur/iFINANCE/assets/114004182/06912037-13bd-4bad-a77d-5a1b16f4dbe2)
 
@@ -23,5 +24,6 @@
 
 4. **Create, Delete and Modify User Accounts:**
    - The Admin account has access to the information of all other accounts, and may modify them at any time.
+![image](https://github.com/nadamur/iFINANCE/assets/114004182/db694ba2-baed-48b9-b299-0baa5dddb66f)
 ![image](https://github.com/nadamur/iFINANCE/assets/114004182/8c3e4665-328c-488c-9be7-d60af63c92ea)
 
